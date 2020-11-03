@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{C853EF8E-F08E-4AF5-BB99-3C4DDDA5A22A}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{E9B748B3-4BAF-45AB-ACBB-BA1C3CFBB977}">
+			<config nodeName="cGenesis" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters=" -basekey INI -ininame p:\config\gentest11.7.1.ini -pf p:\config\genesis-client.pf -p&#32;&#32;lib/startgenesis.p" workFolder="" userName="" password="" domain="" />
+					<param name="Profile" parameters=" -basekey INI -ininame p:\config\gentest11.7.1.ini -pf p:\config\genesis-client.pf -p&#32;&#32;lib/startgenesis.p" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters=" -basekey INI -ininame p:\config\gentest11.7.1.ini -pf p:\config\genesis-client.pf -p&#32;&#32;lib/startgenesis.p" workFolder="" />
+					<param name="Simple" fileName="prowin32.exe" filePath="C:\dlc11.7.1\bin\" parameters=" -basekey INI -ininame p:\config\gentest11.7.1.ini -pf p:\config\genesis-client.pf -p&#32;&#32;lib/startgenesis.p" workFolder="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<folder name="Util">
+			<folder name="Navigation">
+				<child name="PageToHome" key="{65B46A63-028B-43C2-94D7-039362D96319}" path="util\PageToHome.tcKDTest" />
+				<child name="PageTo" key="{99FC8559-1224-472A-A686-CB584739A9E4}" path="util\Navigation\PageTo.tcKDTest" />
+				<child name="ChangePlant" key="{BBD3747F-F212-4845-A3EA-81AA97566A2B}" path="util\Navigation\ChangePlant.tcKDTest" />
+			</folder>
+			<child name="StartGenesis" key="{0E050891-A910-4C12-BD88-86713691E579}" path="util\StartGenesis.tcKDTest" />
+			<child name="Login" key="{134AC456-DB6E-45D9-99D0-D2716976DD65}" path="util\Login.tcKDTest" />
+			<child name="Reset" key="{72FD28F7-C81C-434A-BDA6-2EEAD1E4107C}" path="util\Reset.tcKDTest" />
+			<child name="CloseMenus" key="{4A026DE9-8522-4895-A5CD-759051E08AAC}" path="util\CloseMenus.tcKDTest" />
+		</folder>
+		<folder name="cGenesis">
+			<folder name="Inventory">
+				<child name="cGenesisDeleteMasterCoil" key="{D99EB13B-99C6-47A5-BD4B-C60CE4F8A0E4}" path="cGenesis\cGenesisDeleteMasterCoil.tcKDTest" />
+				<child name="cGenesisDeleteChemProperties" key="{372971A5-2AC7-4007-A142-903F5A8CFF5F}" path="Inventory\cGenesisDeleteChemProperties.tcKDTest" />
+			</folder>
+			<folder name="Util">
+				<child name="cChangePlant" key="{111C519D-A9E4-43D0-904B-8B69E52DF428}" path="util\cChangePlant.tcKDTest" />
+			</folder>
+		</folder>
+		<folder name="Receiving">
+			<folder name="Checkpoints">
+				<child name="WarnHoldMechanicals" key="{7C8E0D43-1A87-4807-9994-9CE0E1D04F5D}" path="Receiving\Checkpoints\WarnHoldMechanicals.tcKDTest" />
+				<child name="ErrorSCACCode" key="{0C267F5D-97BE-4C18-A89D-08B4B43CC5D4}" path="Receiving\Checkpoints\ErrorSCACCode.tcKDTest" />
+				<child name="CheckHoldReason" key="{F73CF3BB-6292-411E-B5DB-7C2CCDDFE4AF}" path="Receiving\Checkpoints\CheckHoldReason.tcKDTest" />
+			</folder>
+			<folder name="Components" />
+			<child name="InventoryNote" key="{F206FFA8-ED8A-4572-833E-166BC24DDCC1}" path="Receiving\InventoryNote.tcKDTest" />
+			<child name="Receive" key="{4AEAC46A-1EA6-47DC-9409-DF15D50643EE}" path="Receiving\Receive.tcKDTest" />
+			<child name="HoldNote" key="{B694218B-6D5A-44D3-9B8C-4D38189BC954}" path="Receiving\HoldNote.tcKDTest" />
+			<child name="Release" key="{66B2A540-7BE2-47BE-A729-1FB34DA19C10}" path="Receiving\Release.tcKDTest" />
+		</folder>
+		<folder name="Maintenance">
+			<child name="CreatePart" key="{2EDD49DF-B69C-4C89-9B77-3239D036D4B9}" path="Maintenance\CreatePart.tcKDTest" />
+		</folder>
+	</children>
+</Root>
