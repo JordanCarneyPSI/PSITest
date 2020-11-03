@@ -36,5 +36,6 @@
 		<folder name="Maintenance">
 			<child name="CreatePart" key="{2EDD49DF-B69C-4C89-9B77-3239D036D4B9}" path="Maintenance\CreatePart.tcKDTest" />
 		</folder>
+		<child name="test" key="{A26E6CC9-43FF-4FFD-B253-88954D187EFB}" path="test.tcKDTest" />
 	</children>
 </Root>
